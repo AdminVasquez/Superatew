@@ -1,2 +1,0 @@
-# univo
-Programacion estructurada
